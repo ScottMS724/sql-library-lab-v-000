@@ -1,1 +1,1 @@
-UPDATE C
+UPDATE characters 
