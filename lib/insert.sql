@@ -45,3 +45,5 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES
 
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES
 ('Pikachu', 'Pokemon', 'Thunderbolt!', 1, 1);
+
+INSERT INTO character_books ()
