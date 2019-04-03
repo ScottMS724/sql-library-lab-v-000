@@ -61,3 +61,19 @@ INSERT INTO character_books (book_id, character_id) VALUES (6, 2);
 INSERT INTO character_books (book_id, character_id) VALUES (1, 3);
 
 INSERT INTO character_books (book_id, character_id) VALUES (2, 4);
+
+INSERT INTO character_books (book_id, character_id) VALUES (4, 5);
+
+INSERT INTO character_books (book_id, character_id) VALUES (5, 5);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 6);
+
+INSERT INTO character_books (book_id, character_id) VALUES (3, 6);
+
+INSERT INTO character_books (book_id, character_id) VALUES (4, 7);
+
+INSERT INTO character_books (book_id, character_id) VALUES (5, 7);
+
+INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+
+INSERT INTO character_books (book_id, character_id) VALUES (1, 8);
