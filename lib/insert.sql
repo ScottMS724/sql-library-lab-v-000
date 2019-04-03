@@ -8,6 +8,8 @@ INSERT INTO subgenres (name) VALUES ('Adventure');
 
 INSERT INTO subgenres (name) VALUES ('Thriller');
 
+INSERT INTO authors 
+
 INSERT INTO books (title, year, series_id) VALUES
 ('Squirtle and Charmander', 1990, 1);
 
