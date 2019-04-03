@@ -47,3 +47,13 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES
 ('Pikachu', 'Pokemon', 'Thunderbolt!', 1, 1);
 
 INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+
+INSERT INTO character_books (book_id, character_id) VALUES (3, 1);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
